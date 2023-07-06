@@ -1,5 +1,5 @@
-# gpt4-retailgenerator
-Uses GPT4 to generate random retail stores, packaged in a text-based menu.
+# gpt3-retailgenerator
+Uses GPT3 to generate random retail stores, packaged in a text-based menu.
 
 # Required packages
 You'll need to install Openai's library using the following command:
