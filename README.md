@@ -1,3 +1,6 @@
+### Note
+This code is like 9 months old, I don't guarantee it works anymore!
+
 # gpt3-retailgenerator
 Uses GPT3 to generate random retail stores, packaged in a text-based menu.
 
